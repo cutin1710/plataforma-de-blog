@@ -105,5 +105,3 @@
    - Deploy do frontend em plataformas como Vercel ou Netlify.
    - Deploy do backend em plataformas como Heroku, DigitalOcean ou AWS.
    - Banco de dados hospedado no MongoDB Atlas.
-
-Seguindo essas especificações, você estará pronto para desenvolver uma plataforma de blogs completa e funcional usando React para o frontend e Node.js para o backend. Se precisar de mais detalhes sobre algum aspecto específico, sinta-se à vontade para perguntar!
