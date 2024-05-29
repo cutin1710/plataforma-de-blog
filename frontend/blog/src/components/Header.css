@@ -17,7 +17,7 @@ body {
     border-radius: 7px;
 }
 .page-link:hover {
-    background-color: rgb(37, 37, 37);
+    background-color: rgb(27, 27, 27);
     transition: 0.6s;
 }
 
